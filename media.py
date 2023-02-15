@@ -13,4 +13,3 @@ class Media:
         for i in self.arrayNotas:
             suma=suma+i
         return suma/len(self.arrayNotas)
-    pepe
